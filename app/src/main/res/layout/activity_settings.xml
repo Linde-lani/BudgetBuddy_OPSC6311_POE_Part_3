@@ -515,33 +515,7 @@
                         android:textSize="12sp"
                         app:cornerRadius="8dp" />
 
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
-                        <LinearLayout
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical"
-                            android:layout_alignParentStart="true"
-                            android:layout_toStartOf="@+id/switchDarkMode">
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:text="Dark Mode"
-                                android:textColor="@color/black"
-                                android:textStyle="bold" />
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:text="Switch between light and dark theme"
-                                android:textSize="12sp" />
-                        </LinearLayout>
-                        <com.google.android.material.switchmaterial.SwitchMaterial
-                            android:id="@+id/switchDarkMode"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true" />
-                    </RelativeLayout>
+
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
