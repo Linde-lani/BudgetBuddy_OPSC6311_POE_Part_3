@@ -13,8 +13,10 @@ I wanted a **clean, intuitive, and fun way** to track income and expenses. No mo
 - **Track Income & Expenses**: Effortlessly record and keep track of your income and expenses in real time.
 - **Categories for Income & Expenses**: Includes all standard categories.
 - **Dashboard & Analytics**: Break down expenses and income by category with visual insights.
+
+## ** 2 features we added
 - **Password Reset**: A user is able to change their password
-- **Auto Session Timeout**: 
+- **Auto Session Timeout**: The app will automatically timeout after 30 minutes
 
 
 ## **🛠 Tech Stack**
@@ -37,5 +39,5 @@ ST10322685 - Energy Maila
 ST10267684 – Lindelani Ngubeni
 
 ## Youtube Video
-
+https://youtu.be/pgFfBECb0jE 
 
