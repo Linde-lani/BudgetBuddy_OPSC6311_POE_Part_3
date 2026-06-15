@@ -1,1 +1,43 @@
+# 🎉 BudgetBuddy - Your Personal Finance Buddy!
+
+** Overview**
+
+Welcome to **BudgetBuddy**, your personal finance tracking app . This project is all about making financial management simple, fun, and stress-free. Whether you’re budgeting like a pro or just starting.
+
+### **✨ Why we Built This**
+
+I wanted a **clean, intuitive, and fun way** to track income and expenses. No more boring spreadsheets - just a smooth experience with a **beautiful UI, insightful analytics, and helpful budgeting tools**. This app is my solution to making finance tracking **enjoyable and effortless**! 🚀
+
+## **🌟 Features**
+
+- **Track Income & Expenses**: Effortlessly record and keep track of your income and expenses in real time.
+- **Categories for Income & Expenses**: Includes all standard categories.
+- **Dashboard & Analytics**: Break down expenses and income by category with visual insights.
+
+## ** 2 features we added
+- **Password Reset**: A user is able to change their password
+- **Auto Session Timeout**: The app will automatically timeout after 30 minutes
+
+
+## **🛠 Tech Stack**
+
+- **Kotlin** – Used as the primary programming language for the app.
+- **MVVM Architecture** - Keeping code clean and maintainable.
+- **Google Credential Manager** – Manages authentication and credentials securely, including integration with Google accounts for sign-in.
+- **Room Database** – Local database management for offline data storage.
+
+
+### Setup Instructions:
+
+- Open the project in **Android Studio**.
+- **Build and run** the app.
+
+
+## **🤝 Contributing**
+ST10457666 – Katlego Sebaeng
+ST10322685 - Energy Maila
+ST10267684 – Lindelani Ngubeni
+
+## Youtube Video
+https://youtu.be/pgFfBECb0jE 
 
