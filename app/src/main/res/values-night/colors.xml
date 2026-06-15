@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF121212</color>
+
+    <!-- Dark Mode Banking Palette -->
+    <color name="background_light">#FF121212</color>
+    <color name="text_primary">#FFEEEEEE</color>
+    <color name="text_secondary">#FFB0B0B0</color>
+
+    <!-- Budget Buddy Dark Theme -->
+    <color name="soft_yellow">#FF1A1A1A</color>
+    <color name="yellow">#FF333333</color>
+    <color name="nav_active">#FFD600</color>
+
+    <!-- Danger Zone Dark Mode -->
+    <color name="danger_background">#331A1A</color>
+    <color name="danger_text">#FF5252</color>
+</resources>

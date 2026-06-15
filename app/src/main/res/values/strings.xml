@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <string name="currency_symbol">R</string>
+    <string name="welcome_message">Welcome to Budget Buddy</string>
+    <string name="sa_context">South Africa\'s Smartest Budgeting Tool</string>
+    <string name="register_subtitle">Join thousands of South Africans saving better.</string>
+    <string name="login_subtitle">Securely access your Rands.</string>
+</resources>
